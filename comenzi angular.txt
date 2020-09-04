@@ -1,0 +1,17 @@
+ng new numeproiect--comanda pt a crea un proiect in Angular.
+
+ng -v-- pentru a verifica daca este instalat Angular corect(in caz contrar
+vom primi comanda command not recognized).
+
+node -v-- pentru a verifica daca Node a fost instalat corect(in caz contrar 
+vom primi comanda command not regonized).
+
+ng serve --open comanda pentru a rula un proiect Angular.
+
+ctrl c-- comanda oprim rularea proiectului.
+ng generate component numecomponenta comanda pentru a genera o componenta noua.
+
+fisierul nume.componets.ts--este creierul(legatura se face prin Component.
+ng generate component-- numecomponenta prin comanda asta adauga componente
+
+ng generate componentnume --componenta adaugam componente
